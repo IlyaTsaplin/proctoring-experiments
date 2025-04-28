@@ -1,0 +1,5 @@
+video_data/parsed_data/*
+!video_data/parsed_data/.gitkeep
+video_data/raw_data/*
+!video_data/raw_data/.gitkeep
+video_data/*.csv
